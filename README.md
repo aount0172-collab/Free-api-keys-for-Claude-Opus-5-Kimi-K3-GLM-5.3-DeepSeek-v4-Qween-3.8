@@ -1,4 +1,4 @@
-[README-beautiful.md](https://github.com/user-attachments/files/31696143/README-beautiful.md)
+[README-beautiful.md](https://github.com/user-attachments/files/31696308/README-beautiful.md)
 <div align="center">
 
 # 🚀 500$+ на Флагманские Модели для AI Агентов
@@ -148,12 +148,12 @@
 
 ### 🟡 Умеренные по безопасности
 
-| Сервис | Модели | Лимиты | Стабильность | Качество | Ссылка |
-|---|---|---|---|---|---|
-| **AIHubMix** | GLM 5.3, KIMI K3, Qwen 3.8 | Плохие | 7/10 | 9/10 | [aihubmix.com](https://aihubmix.com/) |
-| **XKiro** | Qwen 3.8 | Средние | 8.5/10 | 9/10 | [xkiro.com](https://xkiro.com/) |
-| **SambaNova** | DeepSeek v4 и др. | Средние | 8/10 | 7/10 | [sambanova.ai](https://sambanova.ai/) |
-| **Mistral** | Mistral | Средние | 8/10 | 7/10 | [mistral.ai](https://mistral.ai/) |
+| Сервис | Модели | Лимиты | Стабильность | Качество |
+|---|---|---|---|---|
+| [**AIHubMix**](https://aihubmix.com/) | GLM 5.3, KIMI K3, Qwen 3.8 | Плохие | 7/10 | 9/10 |
+| [**XKiro**](https://xkiro.com/) | Qwen 3.8 | Средние | 8.5/10 | 9/10 |
+| [**SambaNova**](https://sambanova.ai/) | DeepSeek v4 и др. | Средние | 8/10 | 7/10 |
+| [**Mistral**](https://mistral.ai/) | Mistral | Средние | 8/10 | 7/10 |
 
 ---
 
@@ -163,7 +163,7 @@
 
 | # | Сервис | Бонус | Модели | Лимиты | Условие | Ссылки |
 |---|---|---|---|---|---|---|
-| 1 | **AgentRouter** ⭐ *Самый щедрый с Opus 5* | **150$ + 50$ реф + 25$/день** | Claude Opus 5, Opus 4.8, GLM 5.3, GPT 5.6 | Честные | GitHub 1+ год. Для OpenCode нужен прокси-эмулятор | [🎁 Реф](https://agentrouter.org/register?aff=I8Lv) · [🔗 Без рефа](https://agentrouter.org/) |
+| 1 | [**AgentRouter**](https://agentrouter.org/register?aff=I8Lv) ⭐ *Самый щедрый с Opus 5* | **150$ + 50$ реф + 25$/день** | Claude Opus 5, Opus 4.8, GLM 5.3, GPT 5.6 | Честные | GitHub 1+ год. Для OpenCode нужен прокси-эмулятор | [🎁 Реф](https://agentrouter.org/register?aff=I8Lv) · [🔗 Без рефа](https://agentrouter.org/) |
 | 2 | **VyceAI** | **50$ + 10$/день** | Честные | Честные | Верификация Discord | [🔗 vyceai.com](https://vyceai.com/) |
 | 3 | **AnyModel** | **10M токенов** за ТГ | Claude Opus 5, Kimi K3, Qwen 3.8 | — | Верификация Telegram | [🎁 Реф](https://anymodel.org/?ref=T7M9BGK) · [🔗 Без рефа](https://anymodel.org/) |
 | 4 | **FuturePPO** | **20$/день** | Kimi K3, GPT 5.6, Grok 4.6, Gemini 3.7 Flash, DeepSeek v4 Pro | Хорошие | Только по рефке + GitHub 1+ год | [🎁 Реф](https://api.futureppo.top/register?aff=ZsDT) · [🔗 Без рефа](https://api.futureppo.top/) |
