@@ -2,8 +2,6 @@
 
 **[EN English](#english) | [RU Russian](#russian) | [llms.txt](#llmstxt)**
 
-> Single-file version for upload. EN first, RU second. No extra files needed.
-
 </div>
 
 ---
