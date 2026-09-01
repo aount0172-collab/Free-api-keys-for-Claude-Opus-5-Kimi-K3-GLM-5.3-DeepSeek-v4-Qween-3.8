@@ -1,4 +1,3 @@
-[README-beautiful.md](https://github.com/user-attachments/files/31696507/README-beautiful.md)
 <div align="center">
 
 # 🚀 500$+ на Флагманские Модели для AI Агентов
