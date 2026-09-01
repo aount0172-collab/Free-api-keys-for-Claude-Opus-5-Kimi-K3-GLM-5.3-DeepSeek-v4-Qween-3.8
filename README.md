@@ -1,4 +1,4 @@
-[README-beautiful.md](https://github.com/user-attachments/files/31696308/README-beautiful.md)
+[README-beautiful.md](https://github.com/user-attachments/files/31696507/README-beautiful.md)
 <div align="center">
 
 # 🚀 500$+ на Флагманские Модели для AI Агентов
@@ -8,7 +8,7 @@
 
 [![Models](https://img.shields.io/badge/Models-Claude%20Opus%205%20%7C%20Kimi%20K3%20%7C%20GLM%205.3-blueviolet?style=for-the-badge)](https://artificialanalysis.ai/models)
 [![Bonus](https://img.shields.io/badge/Bonus-500%24%2B-success?style=for-the-badge)](#-провайдеры)
-[![GitHub Farming](https://img.shields.io/badge/Farm-GitHub%20Accounts-orange?style=for-the-badge)](#-средние--ферма-github)
+[![GitHub Farming](https://img.shields.io/badge/Farm-GitHub%20Accounts-orange?style=for-the-badge)](#-абуз-баланса-через-github)
 [![Update](https://img.shields.io/badge/Update-Сентябрь%202026-informational?style=for-the-badge)](#)
 
 *Статья написана лично мной на основе 2+ недель тестов. О многих сервисах тут еще никто не говорил.*
@@ -27,7 +27,7 @@
 - [🏆 Какие модели выбирать](#-какие-модели-выбирать)
 - [🟢 Безопасные провайдеры](#-безопасные--официальные-api)
 - [🟡 Умеренные по безопасности](#-умеренные-по-безопасности)
-- [🔶 Средние — Ферма GitHub (ТОП для абуза)](#-средние--ферма-github)
+- [🔶 Абуз баланса через Github](#-абуз-баланса-через-github)
 - [🔴 Сомнительные](#-сомнительные)
 - [💰 Поддержать автора](#-поддержать-автора)
 
@@ -137,12 +137,12 @@
 
 > Все официальные API. Пример: GLM недавно раздавали **300M токенов** на `GLM 5.3 Flash`.
 
-| Сервис | Модели | Лимиты | Стабильность | Качество | Ссылка |
-|---|---|---|---|---|---|
-| **Muse Spark 1.2** | Muse Spark 1.2 | Безлимит | ⭐⭐⭐⭐⭐ 9/10 | 8.5/10 | [opencode.ai/ru/zen](https://opencode.ai/ru/zen) |
-| **b.ai** | Qwen 3.8 Flash, GLM 5.3 Flash, DeepSeek v4 Flash | Средние | ⭐⭐⭐ 6/10 | 8/10 | [b.ai](https://b.ai/) |
-| **TokenRouter** | GLM 5.3 | Адекватные | ⭐⭐⭐⭐ 7.5/10 | 9/10 | [tokenrouter.com](https://tokenrouter.com) |
-| **ZCode** | GLM 5.3 (по промо) | Хорошие | ⭐⭐⭐⭐⭐ 9/10 | 9/10 | [zcode.z.ai](https://zcode.z.ai) |
+| Сервис | Модели | Лимиты | Стабильность | Качество |
+|---|---|---|---|---|
+| [**Muse Spark 1.2**](https://opencode.ai/ru/zen) | Muse Spark 1.2 | Безлимит | ⭐⭐⭐⭐⭐ 9/10 | 8.5/10 |
+| [**b.ai**](https://b.ai/) | Qwen 3.8 Flash, GLM 5.3 Flash, DeepSeek v4 Flash | Средние | ⭐⭐⭐ 6/10 | 8/10 |
+| [**TokenRouter**](https://tokenrouter.com) | GLM 5.3 | Адекватные | ⭐⭐⭐⭐ 7.5/10 | 9/10 |
+| [**ZCode**](https://zcode.z.ai) | GLM 5.3 (по промо) | Хорошие | ⭐⭐⭐⭐⭐ 9/10 | 9/10 |
 
 ---
 
@@ -157,16 +157,16 @@
 
 ---
 
-### 🔶 Средние — Ферма GitHub
+### 🔶 Абуз баланса через Github
 
 > **Самые адекватные для абуза.** Триал за GitHub 1+ год. Покупаем аккаунты по ~80₽, получаем ключи, ротируем через прокси.
 
-| # | Сервис | Бонус | Модели | Лимиты | Условие | Ссылки |
-|---|---|---|---|---|---|---|
-| 1 | [**AgentRouter**](https://agentrouter.org/register?aff=I8Lv) ⭐ *Самый щедрый с Opus 5* | **150$ + 50$ реф + 25$/день** | Claude Opus 5, Opus 4.8, GLM 5.3, GPT 5.6 | Честные | GitHub 1+ год. Для OpenCode нужен прокси-эмулятор | [🎁 Реф](https://agentrouter.org/register?aff=I8Lv) · [🔗 Без рефа](https://agentrouter.org/) |
-| 2 | **VyceAI** | **50$ + 10$/день** | Честные | Честные | Верификация Discord | [🔗 vyceai.com](https://vyceai.com/) |
-| 3 | **AnyModel** | **10M токенов** за ТГ | Claude Opus 5, Kimi K3, Qwen 3.8 | — | Верификация Telegram | [🎁 Реф](https://anymodel.org/?ref=T7M9BGK) · [🔗 Без рефа](https://anymodel.org/) |
-| 4 | **FuturePPO** | **20$/день** | Kimi K3, GPT 5.6, Grok 4.6, Gemini 3.7 Flash, DeepSeek v4 Pro | Хорошие | Только по рефке + GitHub 1+ год | [🎁 Реф](https://api.futureppo.top/register?aff=ZsDT) · [🔗 Без рефа](https://api.futureppo.top/) |
+| # | Сервис | Бонус | Модели | Лимиты | Условие |
+|---|---|---|---|---|---|
+| 1 | [**AgentRouter**](https://agentrouter.org/register?aff=I8Lv) ⭐ *Самый щедрый с Opus 5* | **150$ + 50$ реф + 25$/день** | Claude Opus 5, Opus 4.8, GLM 5.3, GPT 5.6 | Честные | GitHub 1+ год. Для OpenCode нужен прокси-эмулятор |
+| 2 | [**VyceAI**](https://vyceai.com/) | **50$ + 10$/день** | Честные | Честные | Верификация Discord |
+| 3 | [**AnyModel**](https://anymodel.org/?ref=T7M9BGK) | **10M токенов** за ТГ | Claude Opus 5, Kimi K3, Qwen 3.8 | — | Верификация Telegram |
+| 4 | [**FuturePPO**](https://api.futureppo.top/register?aff=ZsDT) | **20$/день** | Kimi K3, GPT 5.6, Grok 4.6, Gemini 3.7 Flash, DeepSeek v4 Pro | Хорошие | Только по рефке + GitHub 1+ год |
 
 ---
 
@@ -175,16 +175,16 @@
 > [!WARNING]
 > Фейковые лимиты / фейковые модели. Используй только для тестов, не для продакшена.
 
-| # | Сервис | Бонус | Модели | Примечание | Ссылки |
-|---|---|---|---|---|---|
-| 1 | **XinJianYa** | 10$ + 1$/день | Kimi K3 | — | [🎁 Реф](https://new.xinjianya.top/register?aff=rn9y) · [🔗 Без рефа](https://new.xinjianya.top/) |
-| 2 | **TabiToken** | 120$ + бонус | Claude Opus 5, Opus 4.8 | Фейковые лимиты | [🎁 Реф](https://tabitoken.com/sign-up?aff=61EC) · [🔗 Без рефа](https://tabitoken.com/) |
-| 3 | **OrcaRouter** | Безлимит (триал) | Qwen 3.8, DeepSeek v4 | — | [🔗 orcarouter.ai](https://www.orcarouter.ai/) |
-| 4 | **BluesMinds** | 100$ + бонус | Kimi K3, DeepSeek v4 Pro, GPT 5.6 | Фейковые лимиты | [🎁 Реф](https://api.bluesminds.com/sign-up?aff=Pyu1) · [🔗 Без рефа](https://api.bluesminds.com/) |
-| 5 | **GoRouter** | 80$ + бонусы | Claude Opus 4.8/5 | Фейковые модели | [🔗 gorouter.app](https://gorouter.app/profile) |
-| 6 | **JustWoker** | 70$ | Claude Opus 4.8/5 | Фейковые модели, GitHub 1+ год | [🔗 justwoker.icu](http://justwoker.icu/) |
-| 7 | **TokenBom** | 90 кредитов | Claude Opus 5, GPT 5.6, Kimi K3 | Странные модели | [🔗 tokenbom.com](https://tokenbom.com/keys) |
-| 8 | **WYY22** | 3$ | Claude Opus 5, GLM 5.3 | — | [🎁 Реф](https://www.wyy22.com/sign-up?aff=27W4) · [🔗 Без рефа](https://www.wyy22.com/) |
+| # | Сервис | Бонус | Модели | Примечание |
+|---|---|---|---|---|
+| 1 | [**XinJianYa**](https://new.xinjianya.top/register?aff=rn9y) | 10$ + 1$/день | Kimi K3 | — |
+| 2 | [**TabiToken**](https://tabitoken.com/sign-up?aff=61EC) | 120$ + бонус | Claude Opus 5, Opus 4.8 | Фейковые лимиты |
+| 3 | [**OrcaRouter**](https://www.orcarouter.ai/) | Безлимит (триал) | Qwen 3.8, DeepSeek v4 | — |
+| 4 | [**BluesMinds**](https://api.bluesminds.com/sign-up?aff=Pyu1) | 100$ + бонус | Kimi K3, DeepSeek v4 Pro, GPT 5.6 | Фейковые лимиты |
+| 5 | [**GoRouter**](https://gorouter.app/profile) | 80$ + бонусы | Claude Opus 4.8/5 | Фейковые модели |
+| 6 | [**JustWoker**](http://justwoker.icu/) | 70$ | Claude Opus 4.8/5 | Фейковые модели, GitHub 1+ год |
+| 7 | [**TokenBom**](https://tokenbom.com/keys) | 90 кредитов | Claude Opus 5, GPT 5.6, Kimi K3 | Странные модели |
+| 8 | [**WYY22**](https://www.wyy22.com/sign-up?aff=27W4) | 3$ | Claude Opus 5, GLM 5.3 | — |
 
 ---
 
@@ -209,9 +209,5 @@
 <div align="center">
 
 ### ⭐ Поставь Star если фарм работает!
-
-**P.S.** Хочешь отдельную статью про проверку моделей на фейки — пиши в Issues.
-
-*Последнее обновление: 01.09.2026 · Проверено на Muse Spark 1.2*
 
 </div>
